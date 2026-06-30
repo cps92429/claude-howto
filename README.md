@@ -246,6 +246,7 @@ MIT licensed. Free forever. Clone it, fork it, make it yours.
 | **Checkpoints** | Session snapshots & rewind | [08-checkpoints/](08-checkpoints/) |
 | **Advanced Features** | Planning, thinking, background tasks | [09-advanced-features/](09-advanced-features/) |
 | **CLI Reference** | Commands, flags, and options | [10-cli/](10-cli/) |
+| **Obsidian Copilot** | AI chat & Q&A inside Obsidian vault | [integrations/obsidian-copilot/](integrations/obsidian-copilot/) |
 | **Blog Posts** | Real-world usage examples | [Blog Posts](https://medium.com/@luongnv89) |
 
 </details>

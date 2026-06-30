@@ -536,6 +536,16 @@ chmod +x ~/.claude/hooks/*.sh
 
 ---
 
+## Integrations
+
+Third-party tools that complement your Claude Code workflow.
+
+| Integration | Description | Guide |
+|-------------|-------------|-------|
+| **Obsidian Copilot** | AI chat & Q&A inside Obsidian — supports Claude Sonnet / Opus / Haiku | [integrations/obsidian-copilot/](integrations/obsidian-copilot/) |
+
+---
+
 ## Additional Resources
 
 - [Official Claude Code Documentation](https://code.claude.com/docs/en/overview)
